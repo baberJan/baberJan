@@ -1,6 +1,6 @@
 <div align="center"><h1>Hi there 👋. It is my Karaz-Organisation's account and my personal acount is @baberJan</h1></div>
 
-<div align="center">
+<div align="center"> 
 
 [![GitHub WidgetBox](https://gh-widgetbox.vercel.app/api/profile?username=baberJan&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
         
